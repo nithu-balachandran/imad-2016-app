@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: lightblue;
     margin-top: 75px;
 }
 
@@ -9,7 +9,7 @@ body {
 }
 
 .text-big {
-    font-size: 400%;
+    font-size: 100%;
 }
 
 .bold {
@@ -17,6 +17,6 @@ body {
 }
 
 .img-medium {
-    height: 400px;
+    height: 200px;
 }
 
